@@ -2,43 +2,39 @@
 ### A Powerful Model of Digital Marketing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Academic%20Group%20Project-8B5CF6?style=for-the-badge" alt="Academic Group Project">
-  <img src="https://img.shields.io/badge/Course-BCA-06B6D4?style=for-the-badge" alt="BCA">
-  <img src="https://img.shields.io/badge/Department-CSIT-EC4899?style=for-the-badge" alt="CSIT">
+  <img src="https://img.shields.io/badge/PROJECT-Academic%20Group%20Project-8B5CF6?style=for-the-badge" alt="Academic Group Project"/>
+  <img src="https://img.shields.io/badge/COURSE-BCA-06B6D4?style=for-the-badge" alt="BCA"/>
+  <img src="https://img.shields.io/badge/DEPARTMENT-CSIT-EC4899?style=for-the-badge" alt="CSIT"/>
 </p>
 
 <p align="center">
-  <b>Explore how digital creators, businesses, and affiliate platforms work together to generate performance-based revenue.</b>
+  <b>Understanding how brands, digital creators, and customers connect through performance-based marketing.</b>
 </p>
 
 ---
 
-## 📌 About the Project
+## 📌 Project Overview
 
-Affiliate marketing is a performance-based digital marketing model in which individuals or content creators promote products and services through unique referral links and earn commissions when qualifying actions occur.
+Affiliate marketing is a performance-based digital marketing model in which individuals or content creators promote products and services through unique tracking links and earn commissions when qualifying actions occur.
 
-This academic group project explores the fundamentals of affiliate marketing, its working process, commission structures, promotional channels, popular platforms, advantages, challenges, and emerging trends.
+This academic group project explores the fundamentals of affiliate marketing, its working process, commission models, promotional channels, popular platforms, advantages, challenges, and future trends. It combines research, practical examples, and collaborative presentation work to explain the role of affiliate marketing in the modern digital economy.
 
-The project combines research, real-world examples, and presentation-based learning to explain how affiliate marketing contributes to the modern digital economy.
+## 🎓 Project Details
 
-## 🎓 Project Information
-
-| Detail | Description |
+| Detail | Information |
 |---|---|
 | **Project Title** | Affiliate Marketing — A Powerful Model of Digital Marketing |
 | **Course** | Bachelor of Computer Applications (BCA) |
 | **Department** | CSIT |
 | **Project Type** | Academic Group Project |
-| **Presented By** | Tanishtha, Ritesh, Yash, and Devashis |
-| **Submitted To** | Ratnesh Srivastava Sir |
+| **Team Members** | Tanishtha, Ritesh, Yash, and Devashis |
+| **Subject Teacher** | Ratnesh Srivastava Sir |
 
 ---
 
-## ⚡ How Affiliate Marketing Works
+## ⚡ Affiliate Marketing Workflow
 
-Affiliate marketing connects businesses with affiliates who promote their products or services to potential customers.
-
-The process follows a simple workflow:
+The following workflow illustrates how affiliate marketing connects businesses, affiliates, and customers to generate commission-based revenue.
 
 ```mermaid
 flowchart TD
@@ -46,9 +42,9 @@ flowchart TD
     B --> C["🔗 Unique Tracking Link"]
     C --> D["📱 Product Promotion"]
     D --> E["👤 Customer Clicks Link"]
-    E --> F["🛒 Qualifying Purchase or Action"]
+    E --> F["🛒 Qualifying Action"]
     F --> G["📊 Referral Tracking"]
-    G --> H["💰 Affiliate Earns Commission"]
+    G --> H["💰 Commission Earned"]
 
     style A fill:#312e81,color:#ffffff,stroke:#818cf8
     style B fill:#1e3a8a,color:#ffffff,stroke:#60a5fa
@@ -60,40 +56,36 @@ flowchart TD
     style H fill:#166534,color:#ffffff,stroke:#86efac
 ```
 
-### 🔄 Step-by-Step Workflow
+### 🔄 Step-by-Step Process
 
 1. **Join an Affiliate Program:** Register with a company or affiliate network.
-2. **Get a Tracking Link:** Receive a unique URL associated with your affiliate account.
-3. **Promote Products:** Share products through social media, blogs, websites, videos, or other channels.
-4. **Attract Customers:** Interested users click the affiliate link.
-5. **Generate a Conversion:** A qualifying sale, lead, click, or other action occurs, depending on the program.
-6. **Track Performance:** The platform records eligible referrals and conversions.
-7. **Earn Commission:** Receive payment according to the program's rules and commission structure.
-
-> **Key idea:** Affiliates promote products; merchants provide the products; tracking systems attribute eligible referrals; and commissions reward qualifying performance.
+2. **Get a Tracking Link:** Receive a unique link associated with your affiliate account.
+3. **Promote Products:** Share products through social media, websites, blogs, or videos.
+4. **Attract Customers:** Potential customers click the affiliate link.
+5. **Generate a Conversion:** A qualifying purchase, lead, click, or other eligible action occurs.
+6. **Track Performance:** The affiliate platform records eligible referrals and conversions.
+7. **Earn Commission:** The affiliate receives payment according to the program's terms.
 
 ---
 
 ## 👥 Team Members & Contributions
 
-This project was prepared collaboratively, with each member contributing to a specific part of the work.
+This project was completed collaboratively, with each team member contributing to the preparation, research, presentation, and completion of the project.
 
 | Team Member | Role & Contribution |
 |---|---|
 | **Tanishtha** | Presentation delivery and explanation of the main topics. |
 | **Ritesh** | Research, information collection, PowerPoint preparation, and content organization. |
 | **Yash** | Technical support, troubleshooting, and assistance with the presentation and related work. |
-| **Devashis** | Team coordination, collaboration, and support for overall project completion. |
-
-**Faculty Guide:** Ratnesh Srivastava Sir
+| **Devashis** | Team coordination, collaboration, and assistance with overall project completion. |
 
 ---
 
 ## 📚 Topics Covered
 
 ### 01. Introduction to Affiliate Marketing
-- Definition and basic concept
-- Tracking links and performance-based payments
+- Definition and fundamental concepts
+- Unique tracking links and performance-based earnings
 
 ### 02. Key Participants
 - Merchant or advertiser
@@ -102,37 +94,38 @@ This project was prepared collaboratively, with each member contributing to a sp
 - Affiliate network
 
 ### 03. Importance of Affiliate Marketing
-- Business growth and wider audience reach
+- Business growth and audience reach
 - Opportunities to monetize digital content
 
-### 04. Promotional Channels
+### 04. Affiliate Marketing Channels
 - Websites and blogs
 - Social media platforms
 - Video content and creators
 - Email marketing
 - Influencer marketing
 
-### 05. How It Works
+### 05. How Affiliate Marketing Works
 - Joining affiliate programs
 - Generating tracking links
-- Promoting products
-- Tracking conversions and earning commissions
+- Promoting products and services
+- Tracking referrals and conversions
+- Earning eligible commissions
 
 ### 06. Commission Models
 - **PPS:** Pay Per Sale
 - **PPC:** Pay Per Click
 - **PPL:** Pay Per Lead
-- **Recurring Commission:** Repeated eligible payments under applicable program terms
+- **Recurring Commission:** Repeated eligible commissions under applicable program terms
 
-### 07. Popular Affiliate Platforms
+### 07. Popular Affiliate Marketing Platforms
 
-| Platform | General Purpose |
+| Platform | Description |
 |---|---|
-| Amazon Associates | Promoting eligible Amazon products |
-| EarnKaro | Sharing deals and earning referral commissions |
-| Cuelinks | Affiliate monetization and link management |
-| CJ Affiliate | Affiliate partnerships between publishers and advertisers |
-| Impact | Partnership and affiliate marketing management |
+| **Amazon Associates** | Promoting eligible Amazon products |
+| **EarnKaro** | Sharing deals and earning referral commissions |
+| **Cuelinks** | Affiliate link management and monetization |
+| **CJ Affiliate** | Affiliate partnerships between publishers and advertisers |
+| **Impact** | Partnership and affiliate marketing management |
 
 ### 08. Real-World Examples
 - Technology reviews on YouTube
@@ -141,10 +134,10 @@ This project was prepared collaboratively, with each member contributing to a sp
 - Deal-sharing channels on Telegram
 
 ### 09. Advantages, Challenges & Solutions
-- Low initial investment for many affiliate models
-- Flexible promotional channels
+- Cost-effective promotional opportunities
+- Wider audience reach
 - Competition and changing commission policies
-- The importance of audience trust and transparent disclosures
+- Building trust and maintaining transparency
 
 ### 10. Future Trends
 - AI-driven campaign optimization
@@ -154,103 +147,14 @@ This project was prepared collaboratively, with each member contributing to a sp
 
 ---
 
-## 💰 Example: How Commission Is Calculated
+## 💰 Example of Affiliate Commission
 
-Imagine an affiliate promotes a product worth ₹2,000 with a commission rate of 5%.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Price-₹2%2C000-2563EB?style=for-the-badge" alt="Product Price: 2000 rupees">
-  <img src="https://img.shields.io/badge/Commission%20Rate-5%25-7C3AED?style=for-the-badge" alt="Commission Rate: 5 percent">
-</p>
-
-### Calculation
-
-\[
-\text{Commission} = \text{Product Price} \times \frac{\text{Commission Rate}}{100}
-\]
-
-\[
-= ₹2{,}000 \times \frac{5}{100} = ₹100
-\]
-
-**Result: ₹100 per qualifying sale**, assuming the program applies a 5% commission to the full product price.
-
-Actual earnings depend on the platform's commission rules, eligible orders, tracking, returns, and payment terms.
-
----
-
-## 🌟 Advantages of Affiliate Marketing
-
-| Advantage | Explanation |
-|---|---|
-| **Cost-Effective Promotion** | Businesses can pay commissions for defined results instead of relying only on traditional advertising. |
-| **Wider Reach** | Affiliates can connect products with different audiences. |
-| **Flexible Channels** | Products can be promoted through videos, blogs, websites, and social media. |
-| **Content Monetization** | Creators can earn from relevant recommendations. |
-| **Performance Tracking** | Tracking links and dashboards can help measure referrals and conversions. |
-
-## ⚠️ Challenges to Consider
-
-- High competition in popular product categories
-- Changes to commission rates and affiliate policies
-- Dependence on platform tracking and attribution
-- Building trust with an audience
-- The need to disclose affiliate relationships honestly
-
-## 🔮 Future of Affiliate Marketing
-
-Affiliate marketing continues to evolve alongside digital commerce. Emerging opportunities include AI-assisted content analysis, short-form video promotions, creator partnerships, personalized recommendations, and smoother mobile shopping experiences.
-
-Successful affiliate marketing depends not only on generating clicks but also on relevance, trust, transparent communication, and genuine value for customers.
-
----
-
-## 🧠 Key Learnings
-
-- Affiliate marketing connects merchants, affiliates, customers, and affiliate networks.
-- Unique tracking links help attribute eligible referrals.
-- Commission models reward different qualifying actions.
-- Social media, video platforms, and websites provide opportunities for product promotion.
-- Ethical promotion, honest disclosures, and audience trust support long-term success.
-
----
-
-## 📂 Repository Contents
-
-```text
-affiliate-marketing-project/
-│
-├── README.md
-└── Affiliate Marketing Presentation (1).pdf
-```
-
-| File | Description |
-|---|---|
-| `README.md` | Project overview, workflow, team contributions, and learning outcomes |
-| `Affiliate Marketing Presentation (1).pdf` | Original academic presentation slides |
-
----
-
-## 📖 How to View the Project
-
-1. Open the presentation PDF in this repository.
-2. Preview it directly on GitHub or download it.
-3. Use any standard PDF reader to view the slides.
-
-This is a **presentation-based academic project**, not a software application. No installation or build process is required.
-
----
-
-## 🏁 Conclusion
-
-Affiliate marketing represents an important model of modern digital marketing, connecting brands, content creators, and consumers through trackable referrals and performance-based commissions.
-
-Through this collaborative project, the team explored the affiliate marketing workflow, common commission structures, promotional platforms, real-world examples, challenges, and future opportunities in the digital economy.
-
----
+Consider an affiliate promoting a product worth ₹2,000 with a commission rate of 5%.
 
 <p align="center">
-  <b>🎓 Academic Group Project | BCA | Department of CSIT</b>
-  <br>
-  <i>Prepared by Tanishtha, Ritesh, Yash, and Devashis</i>
+  <img src="https://img.shields.io/badge/Product%20Price-₹2%2C000-2563EB?style=for-the-badge" alt="Product Price ₹2000"/>
+  <img src="https://img.shields.io/badge/Commission%20Rate-5%25-7C3AED?style=for-the-badge" alt="Commission Rate 5 percent"/>
+  <img src="https://img.shields.io/badge/Commission%20Earned-₹100-16A34A?style=for-the-badge" alt="Commission Earned ₹100"/>
 </p>
+
+**Calculation

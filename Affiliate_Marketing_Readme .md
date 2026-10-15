@@ -21,13 +21,9 @@ Affiliate marketing is a performance-based digital marketing strategy in which a
 
 This academic project explains the affiliate marketing ecosystem, its participants, promotion channels, operational process, commission models, major platforms, real-world applications, benefits, challenges, and future trends. It also includes a simple commission calculation to demonstrate the model.
 
-> **Project type:** Academic research and awareness project. This repository presents the topic and its concepts; it is not an operational affiliate-tracking platform.
-
 ## 📄 Project Report
 
 **[View or download the Affiliate Marketing Presentation (PDF)](Affiliate_Marketing_Presentation.pdf)**
-
-> Upload the PDF to this repository using the exact filename `Affiliate_Marketing_Presentation.pdf` so the link above works.
 
 ## 🎯 Project Objectives
 
@@ -242,8 +238,6 @@ For an academic submission, include the exact pages or materials the team consul
 - [impact.com](https://impact.com/)
 - [Google Search Central — Helpful, reliable content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
 - [U.S. Federal Trade Commission — Endorsements, influencers, and reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)
-
-*Platform links are starting points for further reading. Cite the specific pages your group actually consulted in the final academic submission.*
 
 ---
 

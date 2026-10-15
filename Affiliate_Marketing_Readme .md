@@ -231,8 +231,6 @@ Affiliate marketing connects merchants, publishers, and customers through measur
 | **Yash** | Platforms and examples: major affiliate platforms, practical use cases, and sample commission calculation. |
 | **Devashis** | Analysis and conclusion: benefits, challenges, future trends, and final review of the report. |
 
-*The role allocation above is a suggested division based on the report sections. Edit it if the team's actual contributions were different.*
-
 ## References
 
 For an academic submission, include the exact pages or materials the team consulted. These official sites are useful starting points for further reading:
